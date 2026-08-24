@@ -1,0 +1,6 @@
+{
+  "name": "Destino España Admin",
+  "description": "CMS administrativo mobile-first para la gestión de contenido, cintillo, promociones, calculadora y trámites con Cloudflare Worker y R2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

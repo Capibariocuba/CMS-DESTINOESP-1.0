@@ -1,0 +1,29 @@
+{
+  "tramites": [
+    {
+      "id": "calc-001",
+      "nombre": "Inscripción de Nacionalidad por LMD (Ley de Memoria Democrática)",
+      "tiempoResolucion": 180
+    },
+    {
+      "id": "calc-002",
+      "nombre": "Credenciales de Matrimonio Consular",
+      "tiempoResolucion": 60
+    },
+    {
+      "id": "calc-003",
+      "nombre": "Expedición de Primer Pasaporte Español",
+      "tiempoResolucion": 21
+    },
+    {
+      "id": "calc-004",
+      "nombre": "Visado de Nómada Digital (Ley de Startups)",
+      "tiempoResolucion": 45
+    },
+    {
+      "id": "calc-005",
+      "nombre": "Visado de Estudiante y Estancia por Estudios",
+      "tiempoResolucion": 30
+    }
+  ]
+}

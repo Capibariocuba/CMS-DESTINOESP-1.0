@@ -1,0 +1,30 @@
+{
+  "promociones": [
+    {
+      "id": "promo-001",
+      "titulo": "Apertura de Cuenta Bancaria en España",
+      "subtitulo": "Sin comisiones y 100% online para no residentes",
+      "textoBoton": "Saber más",
+      "colorFondo": "#004481",
+      "colorTexto": "#FFFFFF",
+      "contenido": "<h2>Abre tu cuenta bancaria española</h2><p>Accede a todos los servicios financieros para tu proceso migratorio con total comodidad.</p><ul><li>IBAN español garantizado</li><li>Tarjeta de débito física y virtual gratuita</li><li>Transferencias SEPA sin comisiones</li></ul><hr><p><strong>Requisitos:</strong> Pasaporte vigente y comprobante de solicitud consular.</p>",
+      "activa": true,
+      "orden": 1,
+      "creadaEn": "2026-08-24T10:00:00Z",
+      "actualizadaEn": "2026-08-24T12:00:00Z"
+    },
+    {
+      "id": "promo-002",
+      "titulo": "Seguro Médico para Visado de Estudiante y Nómada",
+      "subtitulo": "Cobertura completa sin copagos conforme a normativa de extranjería",
+      "textoBoton": "Cotizar póliza",
+      "colorFondo": "#0B1D3A",
+      "colorTexto": "#FFFFFF",
+      "contenido": "<h2>Póliza Médica Homologada para Extranjería</h2><p>Cumple con el 100% de los requisitos del Consulado de España:</p><ul><li>Sin periodos de carencia</li><li>Sin copagos en todo el territorio nacional</li><li>Repatriación sanitaria incluida</li></ul>",
+      "activa": true,
+      "orden": 2,
+      "creadaEn": "2026-08-24T11:00:00Z",
+      "actualizadaEn": "2026-08-24T12:30:00Z"
+    }
+  ]
+}

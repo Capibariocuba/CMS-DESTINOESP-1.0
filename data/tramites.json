@@ -1,0 +1,89 @@
+{
+  "categorias": [
+    {
+      "id": "cat-1724500000",
+      "nombre": "Nacionalidad y Registro Civil",
+      "color": "#0B3C6D",
+      "tramites": [
+        {
+          "id": "tram-1724500001",
+          "titulo": "Inscripción por Ley de Memoria Democrática (LMD)",
+          "plazoResolucion": 180,
+          "subtramites": [
+            {
+              "id": "sub-1724500002",
+              "nombre": "Revisión preliminar y cotejo de actas apostilladas",
+              "tiempo": 15
+            },
+            {
+              "id": "sub-1724500003",
+              "nombre": "Asignación de cita consular y presentación presencial",
+              "tiempo": 30
+            },
+            {
+              "id": "sub-1724500004",
+              "nombre": "Calificación por el Encargado del Registro Civil Consular",
+              "tiempo": 120
+            },
+            {
+              "id": "sub-1724500005",
+              "nombre": "Expedición de Acta de Nacimiento literal española",
+              "tiempo": 15
+            }
+          ]
+        },
+        {
+          "id": "tram-1724500010",
+          "titulo": "Transcripción de Matrimonio celebrado en el Extranjero",
+          "plazoResolucion": 60,
+          "subtramites": [
+            {
+              "id": "sub-1724500011",
+              "nombre": "Recepción de expediente y certificado de matrimonio local",
+              "tiempo": 10
+            },
+            {
+              "id": "sub-1724500012",
+              "nombre": "Audiencia reservada de los contrayentes",
+              "tiempo": 30
+            },
+            {
+              "id": "sub-1724500013",
+              "nombre": "Emisión del Libro de Familia español",
+              "tiempo": 20
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cat-1724500100",
+      "nombre": "Visados de Residencia y Estancia",
+      "color": "#8A1B1B",
+      "tramites": [
+        {
+          "id": "tram-1724500101",
+          "titulo": "Visado de Nómada Digital",
+          "plazoResolucion": 45,
+          "subtramites": [
+            {
+              "id": "sub-1724500102",
+              "nombre": "Acreditación de teletrabajo y solvencia económica",
+              "tiempo": 15
+            },
+            {
+              "id": "sub-1724500103",
+              "nombre": "Validación de antecedentes penales y póliza médica",
+              "tiempo": 15
+            },
+            {
+              "id": "sub-1724500104",
+              "nombre": "Estampado de visado en pasaporte",
+              "tiempo": 15
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
